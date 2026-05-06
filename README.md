@@ -50,7 +50,6 @@ claude
 |-----|------|
 | `CLAUDE.md` | Claude Code 项目指令，让 Claude 自动遵循翻译原则 |
 | `translation-guide.md` | 完整翻译指南（操作步骤 + 说人话原则 + 反面案例） |
-| `renpy-win-to-mac.md` | Ren'Py 游戏 Windows → macOS 打包指南（含一键脚本） |
 
 ---
 
